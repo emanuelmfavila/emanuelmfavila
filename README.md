@@ -23,7 +23,7 @@ Programo sistemas em produção há 1 ano e construo automações e integraçõe
 **Linguagens:** TypeScript, JavaScript, Python, SQL, C, C++
 **Backend:** Node.js, NestJS, FastAPI, APIs REST, webhooks, PostgreSQL, Prisma, Redis, RabbitMQ
 **Frontend:** React, Next.js
-**Infra:** Git, GitHub Actions, Docker, Docker Swarm, Linux, Fly.io, Vercel
+**Infra:** Git, GitHub Actions, Docker, Docker Compose, Docker Swarm, Portainer (stacks em YAML: n8n em modo fila, Traefik, PostgreSQL, Redis), Linux, Vercel, Fly.io
 **Testes:** Jest, Vitest, Playwright
 **Automação e IA:** n8n, Kestra, Jupyter, LLMs, Claude Code, MCP
 **Dados e marketing:** Power BI, Meta Ads, Google Ads, Google Tag Manager
