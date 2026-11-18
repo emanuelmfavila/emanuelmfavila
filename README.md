@@ -1,4 +1,4 @@
-# Olá, eu sou o Emanuel 👋
+# Olá, eu sou o Emanuel 
 
 **Desenvolvedor Full Stack** | TypeScript, Node.js, Python | Integrações, automação e IA
 
