@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full Stack** | TypeScript, Node.js, Python | Integrações, automação e IA
 
-Programo sistemas em produção há 1 ano e construo automações e integrações há 3. Estudo Engenharia Elétrica na UFOP (conclusão em dez/2026) e moro em João Monlevade, MG, disponível para remoto.
+Programo sistemas em produção há 2 anos e construo automações e integrações há 3. Estudo Engenharia Elétrica na UFOP (conclusão em dez/2026) e moro em João Monlevade, MG, disponível para remoto.
 
 🌐 **Portfólio:** [emanuel-avila.vercel.app](https://emanuel-avila.vercel.app)
 💼 **LinkedIn:** [linkedin.com/in/emanuelmfavila](https://www.linkedin.com/in/emanuelmfavila)
